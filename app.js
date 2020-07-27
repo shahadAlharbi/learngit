@@ -1,3 +1,3 @@
-console.log(" welcome to JavaScript" );
+console.log(" Welcome to JavaScript" );
 
 
